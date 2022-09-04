@@ -513,6 +513,14 @@ header .logo h1:hover {
     text-align: left;
 }
 
+@media only screen and (max-width: 600px) {
+    .tilesWrap li {
+        min-width: 280px;
+        max-width: 320px;
+    }
+
+}
+
 .tilesWrap li h2 {
     font-size: 114px;
     margin: 0;
