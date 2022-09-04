@@ -23,7 +23,7 @@ body {
     margin: 0;
     box-sizing: border-box;
     /*  background: url(../assets/logo.) cover no-repeat; */
-    /* background: var(--color-matte); */
+    background: var(--color-matte);
     font-family: Montserrat, Helvetica, Arial, sans-serif;
     -webkit-font-smoothing: antialiased;
     -moz-osx-font-smoothing: grayscale;
