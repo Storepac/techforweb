@@ -199,6 +199,12 @@ img.zoom {
     }
 }
 
+@media only screen and (width: 688px) {
+    .dinamic {
+        font-size: 3rem;
+    }
+}
+
 @media only screen and (max-width: 600px) {
     .dinamic {
         display: none;
