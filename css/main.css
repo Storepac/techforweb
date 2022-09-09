@@ -119,17 +119,13 @@ label {
     overflow: hidden;
 }
 
-.tem:hover {
-    background: rgba(0, 0, 0, 0.443);
-    width: 100%;
-    height: auto;
-    z-index: 99;
-
-}
-
 
 .thumb {
     margin-bottom: 30px;
+}
+
+.thumb p {
+    color: #fff;
 }
 
 .page-top {
